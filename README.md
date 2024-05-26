@@ -5,7 +5,7 @@
 Welcome to the "Verifying-Sync-Adder-Using-Cocotb" repository! This project demonstrates the verification of a synchronous adder module using Cocotb, a coroutine-based cosimulation library for writing testbenches in Python. The repository includes the RTL design of the synchronous adder, testbenches, and simulation scripts.
 
 ## Repository Structure
-![image](https://github.com/eengr-aneesrehman/Verifying-Sync-Adder-Using-Cocotb/assets/103167188/2c5b2cf0-44ee-4a85-ba3b-75a609585c13)
+![image](https://github.com/eengr-aneesrehman/Verifying-Sync-Adder-Using-Cocotb/assets/103167188/24261262-6557-4f8a-bea4-b4c43bedc954)
 
 - **sources/:** Contains the RTL design files.
    - `adder.sv`
