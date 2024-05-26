@@ -1,6 +1,0 @@
-{"vcs1":{"timestamp_begin":1716620483.242407223, "rt":7.03, "ut":0.15, "st":0.09}}
-{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1716620482.674839367}
-{"VCS_COMP_START_TIME": 1716620482.674839367}
-{"VCS_COMP_END_TIME": 1716650556.391473973}
-{"VCS_USER_OPTIONS": "-top adder +acc+1 +vpi -P pli.tab +define+COCOTB_SIM=1 -sverilog -timescale=1ns/1ps -full64 -debug -load /usr/local/lib64/python3.7/site-packages/cocotb/libs/libcocotbvpi_vcs.so /projects/hydra/t_arehman/my_cocotb/verification/test_adder/../../sources/controller.sv /projects/hydra/t_arehman/my_cocotb/verification/test_adder/../../sources/adder.sv"}
-{"vcs1": {"peak_mem": 17155}}
