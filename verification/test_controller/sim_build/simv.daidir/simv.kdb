@@ -1,0 +1,16 @@
+rc file Version 1.0
+
+[Design]
+COMPILE_PATH=/projects/hydra/t_arehman/my_cocotb/test_controller/sim_build
+VCS_HOME=/tools/synopsys/products/vcs/S-2021.09-SP2-5/
+VERDI_HOME=/tools/synopsys/products/verdi/S-2021.09-SP2-5
+SystemC=FALSE
+UUM=FALSE
+KDB=FALSE
+USE_NOVAS_HOME=FALSE
+COSIM=FALSE
+TOP=controller 
+
+[Value]
+WREALX=ffff534e50535f58
+WREALZ=ffff534e50535f5a

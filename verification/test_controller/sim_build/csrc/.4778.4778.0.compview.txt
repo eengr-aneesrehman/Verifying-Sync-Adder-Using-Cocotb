@@ -1,0 +1,9 @@
+{"vcs1":{"timestamp_begin":1716594720.037275113, "rt":7.02, "ut":0.16, "st":0.08}}
+{"vcselab":{"timestamp_begin":1716594727.136140518, "rt":6.91, "ut":0.24, "st":0.06}}
+{"link":{"timestamp_begin":1716594734.118492933, "rt":0.23, "ut":0.13, "st":0.05}}
+{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1716594719.465525776}
+{"VCS_COMP_START_TIME": 1716594719.465525776}
+{"VCS_COMP_END_TIME": 1716594734.428408385}
+{"VCS_USER_OPTIONS": "-top controller +acc+1 +vpi -P pli.tab +define+COCOTB_SIM=1 -sverilog -timescale=1ns/1ps -full64 -debug -load /usr/local/lib64/python3.7/site-packages/cocotb/libs/libcocotbvpi_vcs.so /projects/hydra/t_arehman/my_cocotb/test_controller/../hdl/controller.sv"}
+{"vcs1": {"peak_mem": 5224}}
+{"stitch_vcselab": {"peak_mem": 5375}}
